@@ -1,4 +1,4 @@
-# -GenAI Basics-
+# GenAI Basics
 Foundational Machine Learning and Generative AI projects built using Python and Streamlit — covering linear regression, gradient descent, and core learning concepts.
 
 Each project focuses on understanding how models predict and learn, step by step — forming a strong base for advanced Gen AI concepts.
@@ -54,7 +54,7 @@ Scikit-learn — ML Library for Marks Predictor
 ⚙️ Setup Instructions
 
 1. Clone this repository:
-git clone https://github.com/anushkapundir1/GenAI-Learning.git
+git clone https://github.com/anushkapundir1/-GenAI-basics-.git
 
 cd GenAI-Learning
 
